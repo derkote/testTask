@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Settings>
+    <WorkPath>WorkFolder</WorkPath>
+    <TimeSpan>10</TimeSpan>
+    <Port>19876</Port>
+    <Adress>127.0.0.1</Adress>
+    <StatName>statistic.txt</StatName>
+    <WritingInterval>15</WritingInterval>
+</Settings>
